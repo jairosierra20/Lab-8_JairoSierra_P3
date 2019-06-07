@@ -1,0 +1,3 @@
+Nombre de la partida:hola
+Nombre de la pieza: caballo
+[b1,c5];
